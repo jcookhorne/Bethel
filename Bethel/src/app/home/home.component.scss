@@ -1,0 +1,21 @@
+body, html{
+    height: 100%;
+}
+
+.bg{
+    // image that is being used
+   //  background-image: url("https://images.unsplash.com/photo-1591204154525-f7ae12d8572f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNodXJjaCUyMGJ1aWxkaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    // half height of screen
+    height: 50%;
+    // Center and scale the image to screen
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

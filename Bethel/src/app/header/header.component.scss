@@ -1,0 +1,26 @@
+#navbarDropdown{
+font-size: 18px;
+color: white;
+}
+.navbar-logo{
+    padding-left: 25px;
+    padding-right: 5% ;
+//    scale:0;
+   width:20%;
+}
+.nav-item{
+    padding-right: 15%;
+}
+
+li.nav-item.dropdown{
+    display: inline-block;
+}
+.dropdown-menu{
+    display: none;
+    position: absolute;
+}
+.nav-item.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+    
